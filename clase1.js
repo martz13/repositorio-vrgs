@@ -1,0 +1,11 @@
+var nombre,apellido ="MARTINEZ";
+nombre='mario';
+var nombreEnMayusculas=nombre.toLocaleUpperCase();
+var apellidoEnMinisculas=apellido.toLowerCase();
+var primeraletradelnombre = nombre.charAt(0)
+var cantidaddeletrasdelnombre=nombre.length
+var nombrecompleto= `${nombre.toUpperCase()} ${apellido.toLowerCase()}`
+var str= nombre.charAt(1)+nombre.charAt(2)
+var str=nombre.substr(1,2);
+var ultimodigito =nombre.length
+var ultim=nombre.charAt(ultimodigito-1) 
